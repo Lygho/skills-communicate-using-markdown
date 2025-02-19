@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Tallula is my mum's name!";
 ```
+- [ ] fühl den Rythmus
+- [ ] fühl die Musik
+- [ ] dieser Bob führt uns zum Sieg
